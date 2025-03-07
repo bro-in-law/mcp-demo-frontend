@@ -1,5 +1,5 @@
-// import { Server } from './mockSdk';
-import { Server } from '@modelcontextprotocol/sdk';
+import { Server } from './mockSdk';
+// import { Server } from '@modelcontextprotocol/sdk';
 import axios from 'axios';
 import router from '../router';
 import { ElMessage } from 'element-plus';
